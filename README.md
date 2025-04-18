@@ -20,4 +20,4 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
 Hyperparameter tuning to optimize model performance
 Testing with Random Forest and other ensemble methods
 Implementing a web app to predict customer subscription
-📌 Author: Abdelruhman Ashraf | 📩 Contact: [LinkedIn](https://www.linkedin.com/in/abdelruhamanelfekky/) | [GitHub](https://github.com/AbdelruhmanAshraf)
+📌 Author: Abdelrahman Elfekky | 📩 Contact: [LinkedIn](https://www.linkedin.com/in/abdelruhamanelfekky/) | [GitHub](https://github.com/AbdelruhmanAshraf)
